@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meri1211
-- 👀 I’m interested in learning front-end web development...
+- 👀 I’m interested in learning front-end development...
 
 
 <!---
